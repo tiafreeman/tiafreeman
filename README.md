@@ -4,7 +4,6 @@ Welcome to my Github. Like many devs, lots of the things I work on are private �
 
 - 🔭 At working I'm building world class third party integrations
 - 💻 Personally I'm building my portfolio, standby 👀
-- 🌱 I’m currently learning Nuxt, Golang
 - 📫 How to reach me: tiajane.freeman@gmail.com
 - 😄 Pronouns: She/Her
 - 🐦 twitter: @technicallytia
